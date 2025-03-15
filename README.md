@@ -47,7 +47,7 @@ source venv/bin/activate
 
 ### 3️⃣ Install Dependencies
 ```sh
-pip install math requests pytest time unittest
+pip install -r requirements.txt
 ```
 
 ## ✅ Running Tests
